@@ -19,7 +19,7 @@ To do different type of analysis using python
 1. Tasks performed using Python and pgAdmin4 SQL
 2. Some tables are extracted using pgAdmin4
 
- **Version**
+ **VERSION USED**
 1. _Python:_ 3.11
 2. _pgAdmin4 SQL_: Version 4
  
