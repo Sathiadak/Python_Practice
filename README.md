@@ -18,7 +18,7 @@ To do different type of analysis using python
 6. Merge
 
   **INFORMATION**
-1. Tasks performed using Python and pgAdmin4 SQL
+1. Tasks performed using Python on Jupyter Notebook and pgAdmin4 SQL
 2. Some tables are extracted using pgAdmin4
 
  **VERSION USED**
