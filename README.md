@@ -20,5 +20,6 @@ To do different type of analysis using python
 2. Some tables are extracted using pgAdmin4
 
       **Version**
-1. _pgAdmin4 SQL_: Version 4
-2. Python: 3.11
+1. _Python: 3.11
+2. _pgAdmin4 SQL_: Version 4
+ 
